@@ -8,14 +8,14 @@
 
 # DFPENet-geology
 ![Process flow of the recognition scheme for co-seismic landslides.](DFPENet-Geology.png)
-#The proposed scheme is applied to two earthquake-triggered landslides in Jiuzhaigou (China) and Hokkaido (Japan)
-#[The scheme evaluated on the earthquake-triggered Jiuzhaigou landslides](https://pan.baidu.com/s/1KeFKTCDff1nSmRqAfI286A)
+# The proposed scheme is applied to two earthquake-triggered landslides in Jiuzhaigou (China) and Hokkaido (Japan)
+# [The scheme evaluated on the earthquake-triggered Jiuzhaigou landslides](https://pan.baidu.com/s/1KeFKTCDff1nSmRqAfI286A)
 | Category | Precision | Recall | mIoU (Accuracy) |
 | ---------- | :-----------:  | :-----------: | :-----------: |
 | Validation set | 91.09% | 91.46% | 83.95% |
 | Final results | 99.97% | 98.70% |	98.67% |
 
-#[The transfer learning scheme evaluated on the earthquake-triggered Hokkaido landslides](https://pan.baidu.com/s/1lEkSMMe7RmHgwRAFTyHi1g)
+# [The transfer learning scheme evaluated on the earthquake-triggered Hokkaido landslides](https://pan.baidu.com/s/1lEkSMMe7RmHgwRAFTyHi1g)
 | Category | Precision | Recall | mIoU (Accuracy) |
 | ---------- | :-----------:  | :-----------: | :-----------: |
 | Validation set |84.28% | 90.20% |	77.21% |
