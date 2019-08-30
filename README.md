@@ -22,4 +22,13 @@
 | ---------- | :-----------:  | :-----------: | :-----------: |
 | Validation set |84.28% | 90.20% |	77.21% |
 
+# Citation
+If you use this code for your research, please cite our papers (This will be updated when the paper is published).
+@article{Xu2019DFPENet-geology,
+  title={DFPENet-geology: A Deep Learning Framework for High Precision Recognition and Segmentation of Co-seismic Landslides},
+  author={Qingsong Xu, Chaojun Ouyang, Tianhai Jiang, Xuanmei Fan, Duoxiang Cheng},
+  journal={arXiv preprint arXiv:1908.10907},
+  year={2019}
+}
+
 # Utilizing our schemes to accomplish recognition tasks for other seismic landslides is highly welcomed.
